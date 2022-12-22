@@ -14,7 +14,7 @@
     <li><a href="#directory">Directory</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#todo">Todo</a></li>
-    <li><a href="#previous-version">Previous Version</a></li>
+    <li><a href="#course composition">Course Composition</a></li>
   </ol>
 </details>
 
@@ -106,9 +106,9 @@
 
 
 
-<a name='previous-version'></a>
+<a name='course composition'></a>
 
-## ↓ Course Structure
+## ↓ Course Composition
 
 ### Course 구성
 <img width="1476" alt="스크린샷 2022-12-22 14 00 33" src="https://user-images.githubusercontent.com/102505826/209060529-71d32d44-7b3e-448a-afc0-d04844805bb7.png">
